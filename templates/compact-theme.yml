@@ -1,0 +1,29 @@
+extends: default
+page:
+  margin: [12mm, 12mm, 11mm, 12mm]
+base:
+  font_size: 8.7
+  line_height_length: 10.4
+heading:
+  margin_top: 4
+  margin_bottom: 2
+  h1_font_size: 15
+  h2_font_size: 10.5
+  h3_font_size: 9.5
+table:
+  font_size: 7.9
+  cell_padding: [2, 2.6, 2, 2.6]
+  border_width: 0.25
+  grid_width: 0.25
+  head:
+    font_style: bold
+role:
+  invoice-title:
+    font_size: 15
+    font_style: bold
+  small:
+    font_size: 7.4
+  right:
+    text_align: right
+footer:
+  height: 0

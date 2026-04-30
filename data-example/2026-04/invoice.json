@@ -1,0 +1,18 @@
+{
+  "invoice_no": "HN-2026-001",
+  "invoice_date": "2026-04-30",
+  "service_period": "April 2026",
+  "customer": {
+    "name": "Musterkunde GmbH",
+    "address_lines": [
+      "Kundenstraße 10",
+      "1010 Wien",
+      "Austria"
+    ],
+    "contact": "optional contact person"
+  },
+  "appointments_file": "appointments.csv",
+  "notes": [
+    "Bitte bei der Überweisung die Honorarnoten-Nummer anführen."
+  ]
+}

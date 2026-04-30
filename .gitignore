@@ -1,0 +1,45 @@
+# Generated output
+build/
+*.pdf
+
+# Private invoice data
+data/
+# Optional: ignore all real data folders by default
+# Keep this enabled if the repo should contain only templates/examples.
+data/20*/
+
+# Keep example/template data if you create it
+!data-example/
+
+
+# Local/generated AsciiDoc files
+*.adoc~
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.venv/
+venv/
+env/
+.env
+.env.*
+
+# Ruby / Asciidoctor
+.bundle/
+vendor/bundle/
+Gemfile.lock
+
+# macOS / Windows / editor files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+.vscode/
+.idea/
+
+# Logs / temp files
+*.log
+*.tmp
+*.bak

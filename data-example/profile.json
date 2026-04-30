@@ -1,0 +1,30 @@
+{
+  "issuer": {
+    "name": "Max Mustermann",
+    "address_lines": [
+      "Musterstraße 1",
+      "5020 Salzburg",
+      "Austria"
+    ],
+    "email": "max@example.com",
+    "phone": "+43 660 0000000",
+    "tax_number": "12 345/6789",
+    "uid": ""
+  },
+  "bank": {
+    "account_holder": "Max Mustermann",
+    "iban": "AT00 0000 0000 0000 0000",
+    "bic": "BKAUATWW",
+    "bank_name": "Musterbank"
+  },
+  "defaults": {
+    "currency": "EUR",
+    "payment_due_days": 14,
+    "vat": {
+      "mode": "kleinunternehmer",
+      "percent": 0,
+      "note": "Umsatzsteuerfrei gemäß § 6 Abs. 1 Z 27 UStG (Kleinunternehmerregelung)."
+    },
+    "thank_you": "Vielen Dank für die Zusammenarbeit."
+  }
+}

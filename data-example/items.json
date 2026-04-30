@@ -1,0 +1,10 @@
+{
+  "school-course": {
+    "label": "School Course",
+    "hourly_rate": 30.0
+  },
+  "workshop-preparation": {
+    "label": "Workshop Vorbereitung",
+    "hourly_rate": 30.0
+  }
+}
